@@ -1,0 +1,3 @@
+Hello All,
+
+This repo is for all the smart contracts which i will be creating while learning Solidity. Hope it will be helpful.
